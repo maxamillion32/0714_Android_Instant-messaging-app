@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "751636227851",
+    "firebase_url": "https://instantmessenger-de6eb.firebaseio.com",
+    "project_id": "instantmessenger-de6eb",
+    "storage_bucket": "instantmessenger-de6eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751636227851:android:cc925975bc634897",
+        "android_client_info": {
+          "package_name": "com.epicodus.instantmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751636227851-s653ra43j9es0ubsuc5n50jocs78429d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epicodus.instantmessenger",
+            "certificate_hash": "F0601AB23E0CD427A6BFA9065CD6D345DCEC6BCE"
+          }
+        },
+        {
+          "client_id": "751636227851-1c76b7a9u5o92ssus3nq0pfshiburi49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHovhLjTdzbR2XxS8biOVjtdAz1v-a7as"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751636227851-1c76b7a9u5o92ssus3nq0pfshiburi49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.epicodus.instantmessanger;
+package com.epicodus.instantmessenger;
 
 import org.junit.Test;
 
